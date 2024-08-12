@@ -1,7 +1,7 @@
 # Solitaire
 Unity Solitaire Game
 
-# 🎮 Solitaire Reimagined in Unity
+# 🎮 Solitaire in Unity
 
 ![Solitaire Gameplay](https://github.com/UniQxGit/Solitaire/blob/main/GithubAssets/Gameplay_1.gif)
 
