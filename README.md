@@ -1,6 +1,3 @@
-# Solitaire
-Unity Solitaire Game
-
 # 🎮 Solitaire in Unity
 
 ![Solitaire Gameplay](https://github.com/UniQxGit/Solitaire/blob/main/GithubAssets/Gameplay_1.gif)
@@ -33,9 +30,7 @@ Welcome to **Solitaire**— a recreation of the classic card game, developed ent
 - **Hint System**: Need a little help? Use the hint feature to find your next move.
 
 ## 📸 Screenshots
-![Screenshot 1](path-to-screenshot1.png)
-![Screenshot 2](path-to-screenshot2.png)
-![Screenshot 3](path-to-screenshot3.png)
+[Incoming...]
 
 ## 🤝 Contributing
 
